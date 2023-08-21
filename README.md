@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NILESHKHABADE08
-- 👀 I’m interested in field of Data Science
+- 👀 Working as a Digital Data Engineer @Imerys
 - 🌱 I’m currently learning Machine Learning and Deep Learning 
 - 💞️ I’m looking to collaborate with Data Engineers 
-- 📫 How to reach me khabadenilesh080189@gmail.com
+- 📫 How to reach me nileshkhabade89@gmail.com
 
 <!---
 NILESHKHABADE08/NILESHKHABADE08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
