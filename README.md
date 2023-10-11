@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NILESHKHABADE08
 - 👀 Working as a Digital Data Engineer @Imerys
-- 🌱 I’m currently learning Machine Learning and Deep Learning 
-- 💞️ I’m looking to collaborate with Data Engineers 
+- 🌱 I’m currently learning Machine Learning and Deep Learning  
 - 📫 How to reach me nileshkhabade89@gmail.com
 
 <!---
